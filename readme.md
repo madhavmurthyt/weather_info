@@ -1,1 +1,1 @@
-https://roadmap.sh/projects/weather_info
+https://roadmap.sh/projects/weather-api-wrapper-service
